@@ -9,8 +9,10 @@ As part of my Physics and Computational Studies, I wanted to see how relativisti
 ## Core Physics I Modeled 
 -- Einstien's Relativistic Mass Dilation: using the formula [ m = m0 / sqrt(1 - (v^2 / c^2)) ] to recalculate 
   the particle's mass as respect to its increasing velocity at ever time step of [5 x 10^-11]--#assumed time interval.
+  
 --Lorentz force & Orbit Radii: My code updates the spiral radius as the momentum changes, causing the 
   path density to alter as velocity climbs.
+  
 --Voltage Gap Transitions: I simulated an current electric field that accelerates the  proton precisely as it crosses the central gap.
 
 ## Features & Visualization 

@@ -26,4 +26,5 @@ Once inside the primary chamber , a uniform magnetic field ($\vec{B}_2$) is appl
 
 $$\vec{F} = q (\vec{v} \times \vec{B}_2) = m \vec{a}$$
 
-* **Perpendicular Velocity($v_{\perp}):** Drives a perfect Circular orbit in the $XY$ plane with the radius directly proportinal to mass : $r = \frac{mv_{\perp}}{qB_2}$ .  
+*   **Perpendicular Velocity($v_{\perp}):** Drives a perfect Circular orbit in the $XY$ plane with the radius directly proportinal to mass : $r = \frac{mv_{\perp}}{qB_2}$ .  
+*   **Parallel Velocity ($v_{\parallel}$):** Experiences no magnetic force along the field vector, causing a constant linear drift that stretches the circle into a beautiful **3D Helix**

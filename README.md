@@ -1,5 +1,5 @@
 ## 3D Mass Spectrometer Simulation
-[Mass_Spectrometer.png]
+['Mass_Spectrometer.png']
 
 Welcome to the **3D Mass Spectrometer Simulation** repository! the project features a high-fidelity computational Model of **BainBridge Mass Spectrometer** built using Julia and CairoMakie.
 

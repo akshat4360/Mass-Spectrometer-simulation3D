@@ -25,3 +25,5 @@ Only ions moving at this exact target velocity which is ($v$) enter the deflecti
 Once inside the primary chamber , a uniform magnetic field ($\vec{B}_2$) is applied along a specific vector(eg:-...the $Z$ axis)the cross product dictates the orbital movement.
 
 $$\vec{F} = q (\vec{v} \times \vec{B}_2) = m \vec{a}$$
+
+* **Perpendicular Velocity($v_{\perp}):** Drives a perfect Circular orbit in the $XY$ plane with the radius directly proportinal to mass : $r = \frac{mv_{\perp}{qB_2}$ .  

@@ -19,6 +19,7 @@ $$\vec{F}_{\text{net}} = q (\vec{E} + \vec{v} \times \vec{B}_1) = 0$$
 $$qE = qvB_1 \implies v = \frac{E} {B_1}$$
 Only ions moving at this exact target velocity which is ($v$) enter the deflection chamber. 
 
+
 ###2. 3D Helical Deflection Dynamics
 
 Once inside the primary chamber , a uniform magnetic field ($\vec{B}_2$) is applied along a specific vector(eg:-...the $Z$ axis)the cross product dictates the orbital movement.
